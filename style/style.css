@@ -1,0 +1,59 @@
+body{
+    margin : 0;
+}
+
+.putih{
+    background-color: white;
+    padding: 2% 10%;
+}
+
+#profil img{
+    width: 20%;
+}
+
+.biru{
+    background-color: aqua;
+    padding: 2% 10%;
+}
+
+#profil{
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#tentang{
+    padding: 2% 10%;
+    
+}
+
+#pendidikan{
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.kemampuan{
+    display:flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.kemampuan img{
+    width: 20%;
+}
+
+#kontak{
+    padding: 2% 10%;
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
